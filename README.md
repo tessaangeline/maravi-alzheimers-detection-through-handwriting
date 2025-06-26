@@ -42,8 +42,10 @@ The project aims to assist early identification of Alzheimer's risk by combining
 - pandas, numpy
 
 ### 🎨 Frontend
-- HTML5, CSS3, Vanilla JavaScript
+- HTML5, CSS3, JavaScript
 
 ### 🗃️ Database
-- Supabase (PostgreSQL)
+- Supabase for secure data storage
+- Environment variable configuration
+
 
